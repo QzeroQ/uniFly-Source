@@ -118,7 +118,10 @@ class Api {
 }
 Api.baseUrl = ''
 Api.timeOut = 20000
-Api.headers = {}
+Api.headers = {
+  common: {},
+  'Content-Type': 'application/json'
+}
 Api.baseParam = {}
 Api.requestInterceptors = {}
 Api.responseInterceptors = {}

@@ -23,5 +23,9 @@ uni-app 基于 Fly 封装 request 请求，实现请求拦截和响应拦截,支
 6. 打包成功后，会在项目根目录下生成一个dist的文件夹，文件夹中会包含一个名为`uniFly.js`的文件文
 7. 在自己的uni-app项目中引入unifly.js就可以使用了，具体使用教程大家可以参考
 `https://github.com/QzeroQ/uniFly`
+8. 如果你不需要自己定制，也可以直接安装我已经提交到npm仓库的uniFly包，具体[使用教程](https://www.jianshu.com/p/2729ac395cf5)
 
-#### `欢迎右上角Star`
+### `欢迎右上角Star`
+
+    
+

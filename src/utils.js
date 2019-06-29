@@ -48,18 +48,6 @@ const UIFB = {
         ...params
       })
     }
-  },
-
-  showActionSheet: function(params) {
-    if (
-      params != undefined &&
-      params.itemList != undefined &&
-      params.itemList.length > 0
-    ) {
-      uni.showActionSheet({
-        ...params
-      })
-    }
   }
 }
 

@@ -1,6 +1,6 @@
-# uniFly-Webpack
+# uniFly源码
 
-uni-app 基于 Fly 封装 request 请求，实现请求拦截和响应拦截,支持 h5 和小程序
+uniFly 基于 Fly和uni-app 封装 request 请求，实现请求拦截和响应拦截,支持 h5 和小程序
 
 #### 使用方法
 

@@ -25,7 +25,7 @@ uniFly 基于 Fly和uni-app 封装 request 请求，实现请求拦截和响应�
 `https://github.com/QzeroQ/uniFly`
 8. 如果你不需要自己定制，也可以直接安装我已经提交到npm仓库的uniFly包，具体[使用教程](https://www.jianshu.com/p/2729ac395cf5)
 
-### `欢迎右上角Star`
+### `欢迎右上角Star,关注最新动态`
 
     
 
